@@ -276,7 +276,7 @@
 				<version>1</version>
 			</dependency>
 
-/
+
 			<!-- Servlet API, JSTL -->
 			<dependency>
 				<groupId>javax.servlet</groupId>
